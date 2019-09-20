@@ -5,7 +5,7 @@ import io.kotlintest.specs.DescribeSpec
 import strikt.api.expectThat
 import strikt.assertions.containsExactlyInAnyOrder
 
-class ExampleWithKotlintestSpec : DescribeSpec({
+class ExampleWithKotlinTestSpec : DescribeSpec({
 
     val subjectUnderTest = listOf("Eris", "Thor", "Anubis", "Ra")
 
