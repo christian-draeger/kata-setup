@@ -1,3 +1,13 @@
-test('adds 1 + 2 to equal 3', () => {
-    expect(1 + 2).toBe(3);
+describe('my beverage', () => {
+
+    test('example using jest matchers', () => {
+        const subjectUnderTest = "Thor";
+        expect(subjectUnderTest).toEqual("Thor");
+    });
+
+    test('example using jest-extended matchers', () => {
+        const subjectUnderTest = ["Eris", "Thor", "Anubis", "Ra"];
+        expect(subjectUnderTest).toIncludeSameMembers(["Ra", "Eris", "Thor", "Anubis"]);
+    });
+
 });
