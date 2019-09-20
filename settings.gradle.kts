@@ -5,4 +5,4 @@ pluginManagement {
 }
 rootProject.name = "kata-setup"
 
-include("kotlin", "java")
+include("kotlin", "java", "javascript")

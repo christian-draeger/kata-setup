@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     val kotlinVersion = "1.3.41"
     kotlin("jvm") version kotlinVersion apply false
-    id("org.jetbrains.kotlin.plugin.spring") version kotlinVersion apply false
+    id("com.github.node-gradle.node") version "2.0.0" apply false
     id("com.adarshr.test-logger") version "1.7.0"
 }
 
@@ -39,4 +39,8 @@ allprojects {
             useJUnitPlatform()
         }
     }
+}
+
+subprojects.filter { it.name == "javascript" }.forEach {
+    it.apply(plugin = "com.github.node-gradle.node")
 }

@@ -1,9 +1,3 @@
-plugins {
-    kotlin("jvm")
-}
-
-java.sourceCompatibility = JavaVersion.VERSION_1_8
-
 dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter:+")
     testImplementation("io.strikt:strikt-core:+")
