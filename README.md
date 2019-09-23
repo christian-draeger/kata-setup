@@ -53,7 +53,7 @@ You can **_either:_**
     
 
 #### 📰 Choose a Kata
-Pick the Kata you want to master and start TDD'ing ♻️
+[Pick a Kata](/Katas) you want to master and start TDD'ing ♻️
 
 ___
 
