@@ -32,37 +32,41 @@ ___
 
 ___
 
-### How-To:
+### 👨‍🍳 How-To:
 
-#### get the project
+#### 📁 get the project
 There are multiple ways to get the setup running on your mashine.
 You can **_either:_**
 * use the **[Template](https://github.com/christian-draeger/kata-setup/generate)** if you want to create a completely new repository
 
 **_or_**
 
-* **Fork** the project 
+* **Fork** the project
 
 **_or_**
 
 * **[download](https://github.com/christian-draeger/kata-setup/archive/master.zip)** it as Zip file.
 
-#### Run all tests
+#### 💫 Run all tests
 
     ./gradlew check
+    
+
+#### 📰 Choose a Kata
+Pick the Kata you want to master and start TDD'ing ♻️
 
 ___
 
-#### Recommended
+#### 👌 Recommended
 
 * [gdub](https://github.com/dougborg/gdub) installed
-    * :information_source: gdub (`gw` on the command line) invokes `./gradlew` on projects where a gradle wrapper is configured, and falls back to use the gradle from the $PATH if a wrapper is not available.
-
+    * ℹ️ gdub (`gw` on the command line) invokes `./gradlew` on projects where a gradle wrapper is configured, and falls back to use the gradle from the $PATH if a wrapper is not available.
+ 
 ___
 
-#### Troubleshooting
+#### 🔧 Troubleshooting
 
-##### install JDK11 via [sdkman](https://sdkman.io/):
+##### ☕️ install JDK11 via [sdkman](https://sdkman.io/):
 ```bash
 $ curl -s "https://get.sdkman.io" | bash
 $ source "$HOME/.sdkman/bin/sdkman-init.sh"
@@ -70,7 +74,7 @@ $ sdk i java 11.0.4.hs-adpt
 ```
 
 
-##### using intelliJ and modern JS derivatives (fix syntax highlighting for ES6 and TS):
+##### 🚧 using intelliJ and modern JS derivatives (fix syntax highlighting for ES6 and TS):
 
 1. open Intellij preferences (on mac `⌘,`)
 1. goto `Languages & Frameworks`
@@ -79,5 +83,5 @@ $ sdk i java 11.0.4.hs-adpt
 
 ___
 
-### Contributions Welcome
+### 🤝 Contributions Welcome
 If you're having some nice Katas or further ideas regarding the template/test setup feel free to send pull requests :neckbeard:
