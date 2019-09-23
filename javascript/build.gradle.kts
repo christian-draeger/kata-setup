@@ -5,7 +5,7 @@ node {
 }
 
 tasks {
-    val check by getting {
+    "check" {
         dependsOn("yarn_install", "yarn_jest")
     }
 }

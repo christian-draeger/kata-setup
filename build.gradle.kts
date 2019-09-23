@@ -22,7 +22,7 @@ allprojects {
 
     testlogger {
         setTheme("mocha")
-        slowThreshold = 5000
+        slowThreshold = 500
     }
 
     tasks {
