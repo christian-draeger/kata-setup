@@ -39,11 +39,11 @@ There are multiple ways to get the setup running on your mashine.
 You can **_either:_**
 * use the **[Template](https://github.com/christian-draeger/kata-setup/generate)** if you want to create a completely new repository
 
-**_or_**
+    **_or_**
 
 * **Fork** the project
 
-**_or_**
+    **_or_**
 
 * **[download](https://github.com/christian-draeger/kata-setup/archive/master.zip)** it as Zip file.
 
