@@ -13,12 +13,12 @@ This project includes working setups and examples for:
     * and assertion libraries like:
         * [Strikt](https://strikt.io/)
         * [AssertK](https://github.com/willowtreeapps/assertk)
-* __Java__ with:
+* __[Java](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)__ with:
     * [JUnit5](https://junit.org/junit5/docs/current/user-guide/)
     * and assertion libraries like:
         * [AssertJ](https://joel-costigliola.github.io/assertj/)
         * [Hamcrest](http://hamcrest.org/JavaHamcrest/)
-* __Groovy__ with:
+* __[Groovy](https://groovy-lang.org/documentation.html)__ with:
     * [Spock](http://spockframework.org/spock/docs/1.3/all_in_one.html)
     * [JUnit5](https://junit.org/junit5/docs/current/user-guide/)
 * __[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)__ including support for _[TypeScript](https://www.typescriptlang.org/docs/home.html)_, _ES6_ and _ES5_ with:
