@@ -23,9 +23,17 @@ ___
 
 #### Troubleshooting
 
-install JDK11 via [sdkman](https://sdkman.io/):
+##### install JDK11 via [sdkman](https://sdkman.io/):
 ```bash
 $ curl -s "https://get.sdkman.io" | bash
 $ source "$HOME/.sdkman/bin/sdkman-init.sh"
 $ sdk i java 11.0.4.hs-adpt
 ```
+
+
+##### using intelliJ and modern JS derivatives:
+
+1. open Intellij preferences (on mac `⌘,`)
+1. goto `Languages & Frameworks`
+1. choose `JavaScript
+1. select JavaScript language version: `ECMAScript 6`
