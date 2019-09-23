@@ -1,4 +1,4 @@
-name: kata-setup-master
+name: master
 
 on: [push]
 
