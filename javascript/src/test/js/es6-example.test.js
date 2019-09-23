@@ -1,4 +1,4 @@
-const sum = require('../../main/js/example');
+import {sum} from "../../main/js/es6-example";
 
 describe('es6 tests with jest', () => {
 
