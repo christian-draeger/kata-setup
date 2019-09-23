@@ -1,4 +1,4 @@
-TDD-kata-setup
+TDD-kata-setup [![Actions Status](https://github.com/christian-draeger/kata-setup/workflows/master/badge.svg)](https://github.com/christian-draeger/kata-setup/actions)
 ==========
 
 This is a template project with some ready to use testing setup to quick start TDD kata sessions... :rocket:
