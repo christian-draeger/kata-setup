@@ -71,5 +71,7 @@ $ sdk i java 11.0.4.hs-adpt
 1. choose `JavaScript
 1. select JavaScript language version: `ECMAScript 6`
 
+___
+
 ### Contributions Welcome
 If you're having some nice Katas or further ideas regarding the template/test setup feel free to send pull requests :neckbeard:
