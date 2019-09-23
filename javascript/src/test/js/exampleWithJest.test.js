@@ -1,4 +1,4 @@
-describe('my beverage', () => {
+describe('es6 tests with jest', () => {
 
     test('example using jest matchers', () => {
         const subjectUnderTest = "Thor";
