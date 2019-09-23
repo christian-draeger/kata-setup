@@ -1,7 +1,7 @@
-TDD-kata-setup [![Actions Status](https://github.com/christian-draeger/kata-setup/workflows/master/badge.svg)](https://github.com/christian-draeger/kata-setup/actions)
-==========
+🚀 TDD-kata-setup [![Actions Status](https://github.com/christian-draeger/kata-setup/workflows/master/badge.svg)](https://github.com/christian-draeger/kata-setup/actions)
+=================
 
-This is a template project with some ready to use testing setup to quick start TDD kata sessions... :rocket:
+This is a template project with some ready to use testing setup to quick start TDD kata sessions...
 
 ![hacken](hacken.gif)
 
@@ -78,7 +78,7 @@ $ sdk i java 11.0.4.hs-adpt
 
 1. open Intellij preferences (on mac `⌘,`)
 1. goto `Languages & Frameworks`
-1. choose `JavaScript
+1. choose `JavaScript`
 1. select JavaScript language version: `ECMAScript 6`
 
 ___
