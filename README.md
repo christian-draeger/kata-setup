@@ -24,10 +24,13 @@ This project includes working setups and examples for:
 * __[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)__ including support for _[TypeScript](https://www.typescriptlang.org/docs/home.html)_, _ES6_ and _ES5_ with:
     * [Jest](https://jestjs.io/docs/en/getting-started)
 
+___
 
 ### Prerequisites
 
 * JDK >= 8 installed
+
+___
 
 ### How-To:
 
@@ -48,9 +51,12 @@ You can **_either:_**
 
     ./gradlew check
 
+___
+
 #### Recommended
 
 * [gdub](https://github.com/dougborg/gdub) installed
+    * :information_source: gdub (`gw` on the command line) invokes `./gradlew` on projects where a gradle wrapper is configured, and falls back to use the gradle from the $PATH if a wrapper is not available.
 
 ___
 
