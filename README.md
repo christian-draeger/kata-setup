@@ -64,7 +64,7 @@ $ sdk i java 11.0.4.hs-adpt
 ```
 
 
-##### using intelliJ and modern JS derivatives:
+##### using intelliJ and modern JS derivatives (fix syntax highlighting for ES and TS):
 
 1. open Intellij preferences (on mac `⌘,`)
 1. goto `Languages & Frameworks`
