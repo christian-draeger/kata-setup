@@ -6,6 +6,6 @@ node {
 
 tasks {
     "check" {
-        dependsOn("yarn_install", "yarn_jest")
+        dependsOn("yarn_install", "yarn_test")
     }
 }

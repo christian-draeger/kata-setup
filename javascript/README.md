@@ -11,5 +11,5 @@ gw check
 
 or if you want to use your globally installed node/yarn setup
 ```bash
-yarn jest
+yarn test
 ```
