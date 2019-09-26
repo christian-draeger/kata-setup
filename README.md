@@ -6,8 +6,8 @@ This is a template project with some ready to use testing setup to quick start T
 ![hacken](hacken.gif)
 
 <details><summary>Origin of the word Kata explained.</summary>
-[Kata](https://en.wikipedia.org/wiki/Karate_kata) (Japanese: 形, or more traditionally, 型; lit. “form”) is a Japanese word describing detailed patterns of movements practiced either solo or in pairs.[1] Karate kata are executed as a specified series of a variety of moves, with stepping and turning, while attempting to maintain perfect form.
-Traditionally, kata are taught in stages. Previously learned kata are repeated to show better technique or power as a student acquires knowledge and experience. It is common for students testing to repeat every kata they have learned but at an improved level of quality. As an reference to this practices you can train yourself doing [Test-Driven-Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html) in a Karate Katas fashion.
+<a href="https://en.wikipedia.org/wiki/Karate_kata" target="_blank">Kata</a> (Japanese: 形, or more traditionally, 型; lit. “form”) is a Japanese word describing detailed patterns of movements practiced either solo or in pairs.[1] Karate kata are executed as a specified series of a variety of moves, with stepping and turning, while attempting to maintain perfect form.
+Traditionally, kata are taught in stages. Previously learned kata are repeated to show better technique or power as a student acquires knowledge and experience. It is common for students testing to repeat every kata they have learned but at an improved level of quality. As an reference to this practices you can train yourself doing <a href="https://martinfowler.com/bliki/TestDrivenDevelopment.html" target="_blank">Test-Driven-Development</a> in a Karate Katas fashion.
 </details>
 
 This project includes working setups and examples for:
